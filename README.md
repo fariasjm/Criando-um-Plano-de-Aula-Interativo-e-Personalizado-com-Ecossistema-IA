@@ -10,7 +10,10 @@ O objetivo é demonstrar como a IA pode ser aplicada na educação, apoiar o pla
   - Facilitar o processos técnicos de ensino-aprendizagem com a tecnologia
   - Gerar materiais didáticos interativos e dinâmicos
 
-
+## Tecnologias Utilizadas
+  - Ferramentas de IA generativa: Para geração e personalização de conteúdo
+  - Prompts Engineering: Técnicas avançadas de prompt para otimizar resultados
+  - Markdown: Documentação e estruturação de conteúdo
 
 
 
