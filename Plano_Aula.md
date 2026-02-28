@@ -8,20 +8,17 @@ Estudantes iniciantes em tecnologia ou educadores interessados em inovação ped
 Apresentar os conceitos básicos de Inteligência Artificial e demonstrar sua aplicação prática no planejamento educacional
 
 ## Metodologia
-
-• Aula expositiva dialogada  
-• Uso de IA para geração de exemplos  
-• Atividade prática com apoio de IA  
-• Feedback orientado por tecnologia  
+  - Aula expositiva dialogada
+  - Uso de IA para geração de exemplos
+  - Atividade prática com apoio de IA
+  - Feedback orientado por tecnologia  
 
 ## Recursos
-
-• Computador  
-• Internet  
-• Ferramentas de IA generativa  
+  - Computador
+  - Internet
+  - Ferramentas de IA generativa  
 
 ## Avaliação
-
-• Participação  
-• Atividade prática  
-• Autoavaliação com apoio de IA  
+  - Participação
+  - Atividade prática
+  - Autoavaliação com apoio de IA  
